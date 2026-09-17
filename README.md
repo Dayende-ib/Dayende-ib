@@ -159,20 +159,7 @@ it alive. Generalist by choice: it's the fastest way to ship a product end to en
 ## 📊 GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayende-ib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayende-ib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Dayende-ib&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayende-ib&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dayende-ib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -352,21 +339,10 @@ pour sortir un produit de bout en bout.
 
 ## 📊 GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayende-ib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&locale=fr"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayende-ib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=fr"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Dayende-ib&theme=tokyonight&hide_border=true&background=0D1117&locale=fr" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayende-ib&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="graphique d'activité"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dayende-ib&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophées"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
